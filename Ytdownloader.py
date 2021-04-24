@@ -7,13 +7,6 @@ from urllib.parse import urlparse
 import pytube
 from tkinter import messagebox
 
-
-
-
-
-
-
-
 root = Tk()
 root.geometry('+%d+%d'%(150,10))
 root.title("Youtube video downloader")
